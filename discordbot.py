@@ -30,7 +30,7 @@ os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 
 gpt_client = OpenAI(
     base_url="YOUR_GPT_API_BASE_URL_HERE",
-    api_key="YOUR_ZUKIJOURNEY_API_KEY_HERE"
+    api_key="YOUR_GPT_API_KEY_HERE"
 )
 gemini_model = None
 if GOOGLE_API_KEY and GOOGLE_API_KEY != "YOUR_GOOGLE_API_KEY_HERE":
