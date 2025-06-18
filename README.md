@@ -130,7 +130,9 @@ Ensure the bot has:
 /gemini Explain quantum physics in simple terms
 /timer 60 Time’s up!
 ```
-
+### Try it out
+* Join the test server to test the bot (The bot maybe offline sometimes its locally hosted)
+  https://discord.gg/DKqDFWC4Y6
 ---
 
 ## License
