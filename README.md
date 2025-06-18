@@ -20,7 +20,6 @@ The author is **not responsible** for account bans, misuse, or violations of any
   ![WhatsApp Image 2025-06-18 at 03 18 53_5dd2ff1a](https://github.com/user-attachments/assets/1b957178-8b65-4b63-97c3-32020006c221)
   ![WhatsApp Image 2025-06-18 at 03 19 05_878a9b15](https://github.com/user-attachments/assets/9a42a2d7-5ca0-41a6-932c-345337ec8f98)
 
-
 - `/queue` — Show the song queue
   ![WhatsApp Image 2025-06-18 at 03 20 44_fac6b68d](https://github.com/user-attachments/assets/57c6653d-164f-4f50-8a3e-5b0629286bf4)
 - `/pause`, `/resume`, `/stop`, `/skip`, `/leave`
@@ -30,17 +29,14 @@ The author is **not responsible** for account bans, misuse, or violations of any
   ![WhatsApp Image 2025-06-18 at 03 23 41_dc10f3fc](https://github.com/user-attachments/assets/be853704-2cb2-4063-995c-e2e953b6bcf0)
   ![image](https://github.com/user-attachments/assets/9ba529b0-16a3-4208-adfc-ee02053bac1d)
 
-
-
 - `/removelastsong` — Remove the most recent track
   ![WhatsApp Image 2025-06-18 at 03 21 39_b0f49bdf](https://github.com/user-attachments/assets/7868a674-4a6e-4791-b3e6-044f8f1ec0c8)
-
 
 ### Media Downloader
 - `/mp3 <YouTube URL>` — Download MP3 files from YouTube
   ![image](https://github.com/user-attachments/assets/28181f03-c174-4450-ab6d-0e0cb1ff93c7)
-
-- `/mp4 <YouTube URL>` — Download MP4 files from YouTube 
+- `/mp4 <YouTube URL>` — Download MP4 files from YouTube
+  ![image](https://github.com/user-attachments/assets/e5b862b1-3b21-46bc-afc6-e9a17526d64f)
 - Smart file size handling to respect Discord limits
 
 ### AI Chat
@@ -49,17 +45,18 @@ The author is **not responsible** for account bans, misuse, or violations of any
 - `/gpt <prompt>` — Ask **OpenAI ChatGPT**
   ![WhatsApp Image 2025-06-18 at 03 11 39_34cc8414](https://github.com/user-attachments/assets/117cfda4-57c7-47d2-aa28-ce22304ba924)
 
-
 ### Utilities
 - `/timer <seconds> <label>` — Countdown timer
-- `/stopwatch <start|stop|reset>` — Stopwatch tool
-- `/alarm <hour> <minute> <label>` — Daily alarm
-
+  ![image](https://github.com/user-attachments/assets/77af3b76-3191-49c7-8365-5d21f20465a8)
+- `/stopwatch <start|stop>` — Stopwatch tool
+  ![image](https://github.com/user-attachments/assets/032b14b1-14f9-4a13-8f2c-5cd62f467ed0)
+- `/alarm <hour> <minute> <label>` — Daily Alarm
+  ![image](https://github.com/user-attachments/assets/d2e71864-d6e3-4073-beda-d42aaa6c3f70)
+  
 ### Help
 - `/help` — Lists all available commands and usage
-  ![WhatsApp Image 2025-06-18 at 03 16 54_6cca076f](https://github.com/user-attachments/assets/cde94776-cd5d-4893-b7cd-a8922d5b3211)
+  ![WhatsApp Image 2025-06-18 at 13 23 12_f719768e](https://github.com/user-attachments/assets/213316c8-378f-4add-94f8-9ff059c5a704)
   ![WhatsApp Image 2025-06-18 at 03 17 07_401669dc](https://github.com/user-attachments/assets/241909d2-7df0-425b-b3a6-e6973479ef7e)
-
 
 ---
 
