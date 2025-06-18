@@ -46,7 +46,7 @@ The author is **not responsible** for account bans, misuse, or violations of any
 ### AI Chat
 - `/gemini <prompt>` — Ask **Google Gemini**
   ![WhatsApp Image 2025-06-18 at 03 10 47_95e91276](https://github.com/user-attachments/assets/9b9e4a9e-1507-445a-9d65-14849ed2dd1a)
-- `/gpt <prompt>` — Ask **OpenAI GPT-4 or similar**
+- `/gpt <prompt>` — Ask **OpenAI ChatGPT**
   ![WhatsApp Image 2025-06-18 at 03 11 39_34cc8414](https://github.com/user-attachments/assets/117cfda4-57c7-47d2-aa28-ce22304ba924)
 
 
