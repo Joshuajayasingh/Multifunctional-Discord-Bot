@@ -126,7 +126,7 @@ Ensure the bot has:
 ```text
 /play never gonna give you up
 /mp3 https://www.youtube.com/watch?v=dQw4w9WgXcQ
-/gpt Write a short poem about AI
+/gpt Write a short story on the rise of AI
 /gemini Explain quantum physics in simple terms
 /timer 60 Time’s up!
 ```
