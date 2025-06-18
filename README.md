@@ -28,6 +28,8 @@ The author is **not responsible** for account bans, misuse, or violations of any
   ![WhatsApp Image 2025-06-18 at 03 22 44_f9c9ade3](https://github.com/user-attachments/assets/ee9af237-c707-4939-8d3c-dc114ac4edc0)
   ![WhatsApp Image 2025-06-18 at 03 23 00_e4d1e84c](https://github.com/user-attachments/assets/930021e4-246e-4726-a20e-fed368478788)
   ![WhatsApp Image 2025-06-18 at 03 23 41_dc10f3fc](https://github.com/user-attachments/assets/be853704-2cb2-4063-995c-e2e953b6bcf0)
+  ![image](https://github.com/user-attachments/assets/9ba529b0-16a3-4208-adfc-ee02053bac1d)
+
 
 
 - `/removelastsong` — Remove the most recent track
@@ -35,8 +37,10 @@ The author is **not responsible** for account bans, misuse, or violations of any
 
 
 ### Media Downloader
-- `/mp3 <YouTube URL>` — Download and upload MP3
-- `/mp4 <YouTube URL>` — Download and upload MP4
+- `/mp3 <YouTube URL>` — Download MP3 files from YouTube
+  ![image](https://github.com/user-attachments/assets/28181f03-c174-4450-ab6d-0e0cb1ff93c7)
+
+- `/mp4 <YouTube URL>` — Download MP4 files from YouTube 
 - Smart file size handling to respect Discord limits
 
 ### AI Chat
